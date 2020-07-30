@@ -1,2 +1,5 @@
 - title: "About me"
   url: "/about"
+
+- title "Publications"
+  url "/publications"
