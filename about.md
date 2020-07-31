@@ -5,4 +5,4 @@ permalink: "/about/"
 ---
 
 
-Something
+Something about me
