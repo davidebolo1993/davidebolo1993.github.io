@@ -4,4 +4,4 @@ layout: default
 permalink: "/publications/"
 ---
 
-Something
+Something abut my publications
