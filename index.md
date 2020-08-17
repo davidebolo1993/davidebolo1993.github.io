@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software
+title: Softwares
 ---
 
 Something about my softwares
