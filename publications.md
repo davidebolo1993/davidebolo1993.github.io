@@ -6,7 +6,7 @@ permalink: "/publications/"
 
 ## Methods for Computational Genomics
 
-# Quality Control
+### Quality Control
 
 [NanoR: A user-friendly R package to analyze and compare nanopore sequencing data](https://doi.org/10.1371/journal.pone.0216471)
 
@@ -14,18 +14,18 @@ permalink: "/publications/"
 
 ---
 
-# Variant Simulation
+### Variant Simulation
 
 [VISOR: a versatile haplotype-aware structural variant simulator for short- and long-read sequencing](https://doi.org/10.1093/bioinformatics/btz719)
 
 ---
 
-# Copy Number Analysis
+### Copy Number Analysis
 
 [Nano-GLADIATOR: real-time detection of copy number alterations from nanopore sequencing data](https://doi.org/10.1093/bioinformatics/btz241)
 
 
-# Tandem Repeats Profiling
+### Tandem Repeats Profiling
 
 [TRiCoLOR: tandem repeat profiling using whole-genome long-read sequencing data](https://github.com/davidebolo1993/TRiCoLOR)
 
