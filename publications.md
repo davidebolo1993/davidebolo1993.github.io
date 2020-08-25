@@ -24,6 +24,7 @@ permalink: "/publications/"
 
 [Nano-GLADIATOR: real-time detection of copy number alterations from nanopore sequencing data](https://doi.org/10.1093/bioinformatics/btz241)
 
+---
 
 ### Tandem Repeats Profiling
 
