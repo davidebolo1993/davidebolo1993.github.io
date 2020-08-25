@@ -22,4 +22,4 @@ title: Softwares
 [![GitHub stars](https://img.shields.io/github/stars/davidebolo1993/TRiCoLOR?style=social)](https://github.com/davidebolo1993/TRiCoLOR/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/davidebolo1993/TRiCoLOR?style=social)](https://github.com/davidebolo1993/TRiCoLOR/network)
 
-[TRiCoLOR](https://github.com/davidebolo1993/TRiCoLOR): Tandem repeats profiler for long read sequencing data
+[TRiCoLOR](https://github.com/davidebolo1993/TRiCoLOR): Tandem repeats profiler for long-read sequencing data
