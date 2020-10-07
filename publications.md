@@ -28,7 +28,7 @@ permalink: "/publications/"
 
 ### Tandem Repeats Profiling
 
-[TRiCoLOR: tandem repeat profiling using whole-genome long-read sequencing data](https://github.com/davidebolo1993/TRiCoLOR)
+[TRiCoLOR: tandem repeat profiling using whole-genome long-read sequencing data](https://academic.oup.com/gigascience/article/9/10/giaa101/5918863?searchresult=1)
 
 ---
 
