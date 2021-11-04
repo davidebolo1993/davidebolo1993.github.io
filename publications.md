@@ -42,3 +42,8 @@ permalink: "/publications/"
 
 [Single-cell analysis of structural variations and complex rearrangements with tri-channel processing](https://doi.org/10.1038/s41587-019-0366-x)
 
+---
+
+## Gene Expression Analysis
+
+[Effect of space flight on the behavior of human retinal pigment epithelial ARPE-19 cells and evaluation of coenzyme Q10 treatment](https://doi.org/10.1007/s00018-021-03989-2)
