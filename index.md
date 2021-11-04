@@ -23,3 +23,10 @@ title: Softwares
 [![GitHub forks](https://img.shields.io/github/forks/davidebolo1993/TRiCoLOR?style=social)](https://github.com/davidebolo1993/TRiCoLOR/network)
 
 [TRiCoLOR](https://github.com/davidebolo1993/TRiCoLOR): Tandem repeats profiler for long-read sequencing data
+
+---
+
+[![GitHub stars](https://img.shields.io/github/stars/davidebolo1993/EViNCe?style=social)](https://github.com/davidebolo1993/EViNCe/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/davidebolo1993/EViNCe?style=social)](https://github.com/davidebolo1993/EViNCe/network)
+
+[EViNCe](https://github.com/davidebolo1993/EViNCe): A snakemake-based pipeline for evaluating structural variants from nanopore reads

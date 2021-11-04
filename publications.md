@@ -20,6 +20,12 @@ permalink: "/publications/"
 
 ---
 
+### Evaluation of Structural Variant Calling Methods
+
+[Evaluation of germline structural variant calling methods for nanopore sequencing data](https://www.frontiersin.org/articles/10.3389/fgene.2021.761791/abstract)
+
+---
+
 ### Copy Number Analysis
 
 [Nano-GLADIATOR: real-time detection of copy number alterations from nanopore sequencing data](https://doi.org/10.1093/bioinformatics/btz241)
@@ -28,11 +34,11 @@ permalink: "/publications/"
 
 ### Tandem Repeats Profiling
 
-[TRiCoLOR: tandem repeat profiling using whole-genome long-read sequencing data](https://academic.oup.com/gigascience/article/9/10/giaa101/5918863?searchresult=1)
+[TRiCoLOR: tandem repeat profiling using whole-genome long-read sequencing data](https://doi.org/10.1093/gigascience/giaa101)
 
 ---
 
-## Single-cell analysis of structural variants
+## Single-cell Analysis of Structural Variants
 
 [Single-cell analysis of structural variations and complex rearrangements with tri-channel processing](https://doi.org/10.1038/s41587-019-0366-x)
 
