@@ -22,7 +22,7 @@ permalink: "/publications/"
 
 ### Evaluation of Structural Variant Calling Methods
 
-[Evaluation of germline structural variant calling methods for nanopore sequencing data](https://www.frontiersin.org/articles/10.3389/fgene.2021.761791/abstract)
+[Evaluation of germline structural variant calling methods for nanopore sequencing data](https://doi.org/10.3389/fgene.2021.761791)
 
 ---
 
@@ -47,3 +47,9 @@ permalink: "/publications/"
 ## Gene Expression Analysis
 
 [Effect of space flight on the behavior of human retinal pigment epithelial ARPE-19 cells and evaluation of coenzyme Q10 treatment](https://doi.org/10.1007/s00018-021-03989-2)
+
+---
+
+## Long-read Sequencing of Malignancies
+
+[Nanopore sequencing for the screening of myeloid and lymphoid neoplasms with eosinophilia and rearrangement of PDGFRα, PDGFRβ, FGFR1 or PCM1-JAK2](https://doi.org/10.1186/s40364-021-00337-1)
