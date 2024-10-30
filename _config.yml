@@ -1,6 +1,6 @@
 title: "My website"
 author: "Davide Bolognini"
-description: "Affiliation: Human Technopole"
+description: "Personal website w/ some of my job-related activities"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
