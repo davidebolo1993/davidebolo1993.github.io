@@ -16,14 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "About me"}
+  - {file: "index.html", icon: house, title: "Home"}
+  - {file: "README.md", icon: eye , title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:davidebolognini7@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/davidebolo1993"}
   - {title: X, icon: twitter, url: "https://x.com/davidebolo93"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/davide-bolognini-114286106"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-8735-8093"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=-MqrVqkAAAAJ&hl=en"}
   - {title: Workplace, icon: dna, url: "https://humantechnopole.it/en"}
 
 comments:
