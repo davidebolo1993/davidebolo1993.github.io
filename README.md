@@ -4,96 +4,17 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## About me
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+<img src="https://humantechnopole.it/wp-content/uploads/2022/02/bolognini-scaled.jpg" width="200" height="200" style="display: block; margin: 0 auto"/>
 
-## Features
+<br/>
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+I am a bioinformatician working in the field of computational genomics. Since the beginning of my career, I have mainly focused on developing methods for the analysis of long-read data. More recently, my interests have also expanded into pagenomics.
+Programming is one of my passions, and most of my code is publicly available on [GitHub](https://github.com/davidebolo1993). I currently work at [Human Technopole](https://humantechnopole.it/en/), a leading research institution for molecular biology.
+My publications are listed on:
+ - [Google Scholar](https://scholar.google.com/citations?user=-MqrVqkAAAAJ)
+ - [Web of Science](https://publons.com/researcher/3146528/davide-bolognini)
+ - [ORCID](https://orcid.org/0000-0002-8735-8093)
+ 
+If you need assistance with any of my software, have a feature request, or would like to collaborate, feel free to reach out to [me](mailto:davidebolognini7@gmail.com) or open a GitHub issue.
